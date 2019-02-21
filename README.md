@@ -1,2 +1,2 @@
-# Project_Pok-tudiant_C
+# Project_Pokétudiant_C
 Project pokétudiant in C
